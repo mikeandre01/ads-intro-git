@@ -14,3 +14,7 @@ div.container{
 div.container > h1 {
     text-align: center;
 }
+ul.list {
+    list-style-type: square;
+    margin-left: 10px;
+}
