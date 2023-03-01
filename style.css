@@ -13,6 +13,7 @@ div.container{
 
 div.container > h1 {
     text-align: center;
+    text-shadow: 3px 3px 3 px gray;
 }
 ul.list {
     list-style-type: square;
